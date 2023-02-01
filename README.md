@@ -4,3 +4,4 @@ ________________________________________________________________________________
 
 ## Overview of NLP
 Document briefly detailing the history of NLP and my personal interest in it.
+---
