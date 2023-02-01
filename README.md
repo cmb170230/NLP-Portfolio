@@ -7,7 +7,7 @@ Document briefly detailing the history of NLP and my personal interest in it.
 
 
 ## Assignment 1: Text Processing with Python
-[Link to .py] (https://github.com/cmb170230/NLP-Portfolio/blob/85485e11ef077cc5f42e053b5996edab139d375e/Homework1_cmb170230.py)
+[Link to .py](https://github.com/cmb170230/NLP-Portfolio/blob/85485e11ef077cc5f42e053b5996edab139d375e/Homework1_cmb170230.py)
 This program takes in a .csv file of employee records, cleans up any formatting errors, and stores it on disk in a dictionary indexed by employee ID.
 To run, simply call the python file with the path to the input data.csv file as a sysarg.
 
