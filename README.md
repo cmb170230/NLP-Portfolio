@@ -16,3 +16,8 @@ Sample Command:
 
 Some strengths I've found of python's text processing capabilities are the simplicity of using the re library as well as the convience of string slicing using indices inside the brackets. One thing I don't like however (although I understand this isn't related explicity to working with strings) is the lack of type declaration/static typing.
 Before this assignment, I had never touched regular expressions before- while frustating at first, as I started to understand how to format them I thought back to a similar project I had done in C++ years ago and how much easier it would have been to use regular expressions, so I appreciate their power now. Additionally, the vast majority of python work I've done lately has been entirely focused around machine learning/data science applications, so this assignment was a nice review of more vanilla python coding.
+
+## Assignment 2: Word Guessing Game and NLTK Basics
+[Link to .py](https://github.com/cmb170230/NLP-Portfolio/blob/3653578734decc4993fb90fd01f95f24214a6861/WordGuess_cmb170230.py) This program takes in a large batch of text from a .txt file as a sysarg, tokenizes and preprocesses it, and extracts common nouns for use in a hangman-esque word guessing game.
+Sample Command:
+> python3 'C:\Users\benne\Google Drive\Laptop Sync\UTD\CS 4395\Assignments\Assignment 2\WordGuess_cmb170230.py' 'C:\Users\benne\Google Drive\Laptop Sync\UTD\CS 4395\Assignments\Assignment 2\anat19.txt'.
