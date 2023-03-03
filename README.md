@@ -30,6 +30,6 @@ Sample Command:
 This program/document is an exploration of the use of WordNet and basic related techniques to gain a preliminary understanding of a body of text and a critical analysis of the results. To run, simply open the file in Google Colab.
 
 ## Assignment 4: Language Guessing with N-grams
-[Link to .py](https://github.com/cmb170230/NLP-Portfolio/blob/3cf5ab3749f09420ed7a8f9b3515176f63bf6835/N-grams/ngrams_1_cmb170230.py) 
+[Link to project folder](https://github.com/cmb170230/NLP-Portfolio/tree/main/N-grams) 
 
 This program takes in a large amount of text in three different languages as an input and processes them into dictionaries of counts for both unigrams and bigrams, ran separately due to the time required for construction. The second program, the language guessing component, takes the pickled dictionaries as input along with files containing test cases and correct answers. To run the first, enter the full file paths to the texts as sysargs. To run the second, make sure the pickled dictionaries are in the same directory as the program, then enter the test cases and solution paths as sysargs.
