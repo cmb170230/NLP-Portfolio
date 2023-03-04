@@ -33,3 +33,8 @@ This program/document is an exploration of the use of WordNet and basic related 
 [Link to project folder](https://github.com/cmb170230/NLP-Portfolio/tree/main/N-grams) 
 
 This program takes in a large amount of text in three different languages as an input and processes them into dictionaries of counts for both unigrams and bigrams, ran separately due to the time required for construction. The second program, the language guessing component, takes the pickled dictionaries as input along with files containing test cases and correct answers. To run the first, enter the full file paths to the texts as sysargs. To run the second, make sure the pickled dictionaries are in the same directory as the program, then enter the test cases and solution paths as sysargs.
+
+## Assignment 5- Exploration of Various Sentence Parsing Techniques
+[Link to .pdf](https://github.com/cmb170230/NLP-Portfolio/blob/7f1b0aa009f0347d1236955f76225b4f9c97e39d/Sentence_Parsing_cmb170230.pdf) 
+
+This document outlines examples of PSG, Dependency, and SRL parsing of a particular sentence, manually writing the representations themselves and documenting what the various acronyms mean as well as analyzing the performance of each technique relative to each other.
