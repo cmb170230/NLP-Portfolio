@@ -40,5 +40,6 @@ This program takes in a large amount of text in three different languages as an 
 This document outlines examples of PSG, Dependency, and SRL parsing of a particular sentence, manually writing the representations themselves and documenting what the various acronyms mean as well as analyzing the performance of each technique relative to each other.
 
 ## Assignment 6- Web Crawler and Knowledge Base Generator
+[Link to project folder](https://github.com/cmb170230/NLP-Portfolio/tree/main/Web%20Crawler)
 
 These programs scrape a specific cooking website and associated websites, then cleans the results and generates a knowledge base based on specific keywords. See the attached report for more details.
