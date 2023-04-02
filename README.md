@@ -43,3 +43,8 @@ This document outlines examples of PSG, Dependency, and SRL parsing of a particu
 [Link to project folder](https://github.com/cmb170230/NLP-Portfolio/tree/main/Web%20Crawler)
 
 These programs scrape a specific cooking website and associated websites, then cleans the results and generates a knowledge base based on specific keywords. See the attached report for more details.
+
+## Assignment 7- Text Classification using Basic ML Techniques
+[Link to .ipynb](https://github.com/cmb170230/NLP-Portfolio/blob/67259e4424bf7bf3ec4d1170df7b67031bec6384/Text%20Classification/Sentiment%20Analysis%20with%20NB,%20LogRegression,%20and%20NN%20Classifiers.ipynb)
+
+This notebook demonstrates sentiment analysis via a variety of basic machine learning techniques, incuding model performance metrics.
