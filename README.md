@@ -48,3 +48,7 @@ These programs scrape a specific cooking website and associated websites, then c
 [Link to .ipynb](https://github.com/cmb170230/NLP-Portfolio/blob/67259e4424bf7bf3ec4d1170df7b67031bec6384/Text%20Classification/Sentiment%20Analysis%20with%20NB,%20LogRegression,%20and%20NN%20Classifiers.ipynb)
 
 This notebook demonstrates sentiment analysis via a variety of basic machine learning techniques, incuding model performance metrics.
+
+## Assignment 8- Summary of ACL Paper
+
+This document is a summary of a long-form paper submitted to the ACL conference.
