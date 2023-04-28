@@ -8,6 +8,7 @@ Document briefly detailing the history of NLP and my personal interest in it.
 
 ## Assignment 1: Text Processing with Python
 [Link to .py](https://github.com/cmb170230/NLP-Portfolio/blob/85485e11ef077cc5f42e053b5996edab139d375e/Homework1_cmb170230.py)
+
 This program takes in a .csv file of employee records, cleans up any formatting errors, and stores it on disk in a dictionary indexed by employee ID.
 To run, simply call the python file with the path to the input data.csv file as a sysarg.
 
@@ -50,5 +51,17 @@ These programs scrape a specific cooking website and associated websites, then c
 This notebook demonstrates sentiment analysis via a variety of basic machine learning techniques, incuding model performance metrics.
 
 ## Assignment 8- Summary of ACL Paper
+[Link to .docx](https://github.com/cmb170230/NLP-Portfolio/blob/649920c6d0e3f3ca45aa141e594612adb10caa7d/Gender_Bias_Summary_cmb170230.docx)
 
-This document is a summary of a long-form paper submitted to the ACL conference.
+This document is a summary of a long-form paper submitted to the ACL conference assessing novel techniques for the detection and evaluation of gender bias in machine translation. 
+
+## Assignment 9- REMI, the Recipe Exploration and Modification Intelligence
+
+[Link to Project Folder](https://github.com/cmb170230/NLP-Portfolio/tree/main/REMI)
+
+This is the chatbot I developed for the course. He's built on a custom set of two classifiers (logistic regression, naive bayes) to detect whether the user needs help defining a term (define), whether the user wants to find a recipe based on a given list of ingredients (explore), or if the user wants a suggestion for an alternative to a given ingredient or cooking technique (modify). The classifiers he uses are based on training data I and family/friends came up with, and everything else is based around WordNet. Each user has their own list of allowable and disliked terms/cooking techniques as well, so REMI will automatically remember the user's preferences and exclude them from modification suggestions and recipe exploration results. Further details are available within the report.
+
+## Assignment 10- Text Classification using Deep Learning
+[Link to .ipynb](https://github.com/cmb170230/NLP-Portfolio/blob/649920c6d0e3f3ca45aa141e594612adb10caa7d/CS_4395_Text_Classification2.ipynb)
+
+This notebook builds on the previous sentiment analysis notebook by exploring improvement found via deep learning models, testing both a normal sequential model and a bi-directional LSTM model.
