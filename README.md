@@ -4,7 +4,7 @@ ________________________________________________________________________________
 
 ## Overview of NLP
 Document briefly detailing the history of NLP and my personal interest in it.
-
+[Link to Resume](https://github.com/cmb170230/NLP-Portfolio/blob/60e81818a8d85a7b73acc6cfee4373b376eff17b/Resume_Cole_Bennett.pdf)
 
 ## Assignment 1: Text Processing with Python
 [Link to .py](https://github.com/cmb170230/NLP-Portfolio/blob/85485e11ef077cc5f42e053b5996edab139d375e/Homework1_cmb170230.py)
@@ -65,3 +65,7 @@ This is the chatbot I developed for the course. He's built on a custom set of tw
 [Link to .ipynb](https://github.com/cmb170230/NLP-Portfolio/blob/649920c6d0e3f3ca45aa141e594612adb10caa7d/CS_4395_Text_Classification2.ipynb)
 
 This notebook builds on the previous sentiment analysis notebook by exploring improvement found via deep learning models, testing both a normal sequential model and a bi-directional LSTM model.
+
+## Summary and Review
+
+Throughout this course, I have learned a variety of valuable techniques in preprocessing and manipulating text data including tokenization, part-of-speech parsing, dependency parsing, other sentence parsing/information extraction techniques. I have also learned how to implement and optimize a range of machine learning techniques and actually put them to work as part of a piece of software. Going forward, I will be continuing to improve REMI by changing the underlying structure of how it finds modifications, addition of a database for containing the recipes, live definition lookup, and improvements to the general dialog flow to allow more natural dialogue and better control over the user state for the user. Long term, I plan to attempt to train a custom set of models to vastly improve the modification intent, but the feasibility of this task is dubious. To keep up with the field, I will attempt to stay up-to-date with relevant papers coming out of the ACM conference to get a better idea of where the technology is headed before valuable ideas are capitalized on in mainstream products. I plan to continue on to graduate school, but as far as employment goes if any opportunities exist to have a part in development of a system similar to REMI I would love to be a part of it.
