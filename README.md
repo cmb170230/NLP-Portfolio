@@ -8,6 +8,7 @@ Document briefly detailing the history of NLP and my personal interest in it.
 
 ## Assignment 1: Text Processing with Python
 [Link to .py](https://github.com/cmb170230/NLP-Portfolio/blob/85485e11ef077cc5f42e053b5996edab139d375e/Homework1_cmb170230.py)
+
 This program takes in a .csv file of employee records, cleans up any formatting errors, and stores it on disk in a dictionary indexed by employee ID.
 To run, simply call the python file with the path to the input data.csv file as a sysarg.
 
@@ -51,6 +52,7 @@ This notebook demonstrates sentiment analysis via a variety of basic machine lea
 
 ## Assignment 8- Summary of ACL Paper
 [Link to .docx](https://github.com/cmb170230/NLP-Portfolio/blob/649920c6d0e3f3ca45aa141e594612adb10caa7d/Gender_Bias_Summary_cmb170230.docx)
+
 This document is a summary of a long-form paper submitted to the ACL conference assessing novel techniques for the detection and evaluation of gender bias in machine translation. 
 
 ## Assignment 9- REMI, the Recipe Exploration and Modification Intelligence
